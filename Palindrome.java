@@ -9,3 +9,9 @@ public class Palindrome {
         sc.close();
     }
 }
+
+// input 1 : aba
+// output : Palindrome
+
+// input 2 : abcd
+// output : Not Palindrome
