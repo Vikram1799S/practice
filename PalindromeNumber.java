@@ -15,3 +15,9 @@ public class PalindromeNumber {
         sc.close();
     }
 }
+
+// input 1 : 6556 (If reversed the int 6556 == 6556)
+// output : Palindrome
+
+// input 2 : 456 (If reversed the int 654 == 456)
+// output : Not Palindrome
